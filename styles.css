@@ -54,9 +54,14 @@ body .container {
   width: 30%;
   display: flex;
   color: brown;
-  padding: 40px;
   background-color: rgba(0, 0, 0, 0.543);
   border-radius: 5px;
+}
+
+.container .header .logo .greeting {
+  width: 100%;
+  padding: 40px;
+  color: rgba(137, 43, 226, 0.894);
 }
 
 
